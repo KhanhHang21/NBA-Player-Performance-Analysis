@@ -16,7 +16,7 @@ Efficiency in basketball refers to a player’s overall impact on the game, cons
 
 - This study examines key performance metrics, such as Points per Game (PPG), Rebounds per Game (RPG), Assists per Game (APG), and advanced stats like Offensive Rating (ORtg) and Defensive Rating (DRtg), to evaluate efficiency.
 
-• **Dataset** includes NBA player statistics from the 2023–2024 playoffs, capturing a wide range of metrics-  https://www.kaggle.com/datasets/mohamedsaqibshouqi/2023-2024-nba-player-stats-playoffs
+- **Dataset** includes NBA player statistics from the 2023–2024 playoffs, capturing a wide range of metrics-  https://www.kaggle.com/datasets/mohamedsaqibshouqi/2023-2024-nba-player-stats-playoffs
 
 ---
 
