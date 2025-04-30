@@ -12,11 +12,11 @@ Efficiency in basketball refers to a player’s overall impact on the game, cons
 
 ## 📚 Background Information
 
-• Top NBA performers are often ranked through a combination of **expert panel evaluations** (e.g., ESPN, Bleacher Report analysts, and former players), **media voting** (e.g., awards decided by sportswriters, broadcasters, and fans), and **statistical analysis** by data experts.
+- Player efficiency is a comprehensive measure of a player’s overall impact on the game, considering both offensive and defensive contributions.
 
-• Focus on a combination of basic and advanced variables, including Offensive Rating (ORtg), Defensive Rating (DRtg), Points per Game (PPG), Rebounds per Game (RPG), Assists per Game (APG), Points + Rebounds (P+R), Effective Field Goal Percentage (eFG%), Usage Percentage (USG%), Free Throw Attempts (FTA), Blocks per Game (BPG), Steals per Game (SPG), and Minutes per Game (MPG) to statistically analyze efficiency.
+- This study examines key performance metrics, such as Points per Game (PPG), Rebounds per Game (RPG), Assists per Game (APG), and advanced stats like Offensive Rating (ORtg) and Defensive Rating (DRtg), to evaluate efficiency.
 
-• **Dataset:** https://www.kaggle.com/datasets/mohamedsaqibshouqi/2023-2024-nba-player-stats-playoffs
+• **Dataset** includes NBA player statistics from the 2023–2024 playoffs, capturing a wide range of metrics-  https://www.kaggle.com/datasets/mohamedsaqibshouqi/2023-2024-nba-player-stats-playoffs
 
 ---
 
