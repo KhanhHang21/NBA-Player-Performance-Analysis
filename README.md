@@ -1,4 +1,4 @@
-# NBA Player Performance Analysis
+# 🏀 NBA Player Performance Analysis
 
 **Do player statistics fully capture performance, or are there overlooked metrics that more accurately define NBA efficiency?**
 
@@ -22,3 +22,20 @@ Efficiency in basketball refers to a player’s overall impact on the game, cons
 
 ## 🎯 Project Objectives
 
+- Perform statistical analyses of key performance metrics to validate their influence on player efficiency.
+  
+- Investigate the relationships between traditional stats and advanced metrics to determine what best defines efficiency.
+  
+- Provide insights and actionable recommendations on which players exhibit the highest player efficiency.
+
+## 📝 Notebooks
+
+| Notebook                       | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| `nba_player_performance.ipynb`  | Data preparation, exploratory analysis, correlation analysis, hypothesis testing |
+| `predictive_modeling.ipynb`     | Predictive modeling (Random Forest, XGBoost), feature importance analysis |
+
+## 💻 Expected Outcomes
+- Identify key factors that drive player efficiency.
+- Provide a comprehensive ranking of players based on a combination of offensive and defensive performance metrics.
+- Offer actionable recommendations for improving player evaluation beyond traditional statistics.
