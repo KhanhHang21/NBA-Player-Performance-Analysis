@@ -32,7 +32,7 @@ Efficiency in basketball refers to a player’s overall impact on the game, cons
 
 | Notebook                       | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
-| `nba_player_performance.ipynb`  | Data preparation, exploratory analysis, correlation analysis, hypothesis testing |
+| `Player Performance Analysis_Final.ipynb`  | Data preparation, exploratory analysis, correlation analysis, hypothesis testing |
 | `predictive_modeling.ipynb`     | Predictive modeling (Random Forest, XGBoost), feature importance analysis |
 
 ## 💻 Expected Outcomes
